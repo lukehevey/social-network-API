@@ -18,11 +18,11 @@ const thoughts = [
         "username": "lernantino",
       },
       {
-        "thoughtText": "Here's a 2nd cool thought...",
+        "thoughtText": "Here's a not so cool thought...",
         "username": "sal",
       },
       {
-        "thoughtText": "Here's a 3rd ool thought...",
+        "thoughtText": "Here's another cool thought...",
         "username": "antonio",
       },
 ]
