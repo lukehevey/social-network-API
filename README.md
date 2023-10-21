@@ -10,7 +10,7 @@
 
 
   ## Walkthrough video
-  [Link to video]()
+  [Link to video](https://watch.screencastify.com/v/gtDc36Lyje82p8FancIW)
   
   
   ## Description
